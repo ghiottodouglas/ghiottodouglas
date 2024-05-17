@@ -1,4 +1,9 @@
-### Hi there 👋
+### Douglas Ghiotto - 2ºB
+### Robótica
+![](https://github.com/ghiottodouglas/ghiottodouglas/assets/170126792/4e3b94a4-0e3d-4b1e-ac97-bf7e5bbaaf0e)
+
+
+
 
 <!--
 **ghiottodouglas/ghiottodouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
